@@ -1,3 +1,5 @@
+<img src="images/neteclogo.png" alt="logo" width="300"/>
+
 # COPILOT EN LOGISTICA
 
 Este seminario integral transforma la gestión logística mediante el uso de IA generativa para la toma de decisiones basada en datos, la eliminación de cuellos de botella y la automatización de la atención al cliente. Los participantes aprenderán a convertir datos operativos complejos en estrategias de prioridad diaria y a desplegar agentes inteligentes para el seguimiento de pedidos.
@@ -32,8 +34,12 @@ Este seminario integral transforma la gestión logística mediante el uso de IA 
   - Descripción: Crear un agente de experiencia de cliente para el seguimiento de pedidos y la atención, integrando la arquitectura de agentes y la automatización de tareas administrativas en Teams y Outlook.
   - Duración estimada: 60 min
 
-## Flujo de colaboración
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
