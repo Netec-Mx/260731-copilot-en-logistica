@@ -24,13 +24,13 @@ Este seminario integral transforma la gestión logística mediante el uso de IA 
 
 - [Resolución de casos prácticos de operaciones y manejo de crisis.](Capitulo03/README.md#resolución-de-casos-prácticos-de-operaciones-y-manejo-de-crisis)
   - Descripción: Resolver casos prácticos de operaciones y manejo de crisis mediante la detección de cuellos de botella, la identificación de áreas de riesgo crítico y la redacción profesional técnica.
-  - Duración estimada: 90 min
+  - Duración estimada: 60 min
 
 ### Capítulo 4
 
 - [Creación de un Agente para Seguimiento de Pedidos y Atención.](Capitulo04/README.md#creación-de-un-agente-para-seguimiento-de-pedidos-y-atención)
   - Descripción: Crear un agente de experiencia de cliente para el seguimiento de pedidos y la atención, integrando la arquitectura de agentes y la automatización de tareas administrativas en Teams y Outlook.
-  - Duración estimada: 60 min
+  - Duración estimada: 90 min
 
 ## Flujo de colaboración
 
